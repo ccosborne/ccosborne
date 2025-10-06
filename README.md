@@ -1,9 +1,9 @@
 ## WHOAMI 👋
 
-- 😎 Senior Researcher at Linux Foundation | Strategic advocacy and governance tools to support open source AI developers
+- 😎 Open source AI strategic research & advocacy at Linux Foundation
 - 🔬 PhD in Social Data Science from University of Oxford
-- 🌍 Formerly: international AI governance at UK Government & Global Partnership on AI
-- 🌱 Currently learning Colombian Spanish 🇨🇴
+- 🌍 Formerly: AI policy @ UK Government + business development @ mission-driven AI/data startups
+- 🌱 Currently learning Spanish 🇨🇴
 - 💬 Chat to me about #opensourceAI and #AIpolicy
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/caileanosborne/)
 - 😄 Pronouns: he/him
